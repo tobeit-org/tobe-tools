@@ -4,5 +4,11 @@
   },
   "files.associations": {
     "*.css": "tailwindcss"
-  }
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#370E7F",
+    "titleBar.activeBackground": "#4D13B1",
+    "titleBar.activeForeground": "#FBFAFE"
+  },
+  "i18n-ally.localesPaths": ["public/locales", "src/i18n"]
 }
